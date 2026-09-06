@@ -45,3 +45,7 @@ ________________________________________________________________________________
 
 Now is the practical follow-along portion where we will combine these concepts into a real network. Watch and follow along with this video. 
 
+[![Watch the demo](<img width="552" height="513" alt="image" src="https://github.com/user-attachments/assets/7888ed46-c59b-448e-9f2c-a71a3bab16aa" />
+)](https://youtu.be/1nbD2payPJo)
+
+Thanks for following along with this project I hope you learned something and it was all digestable and understandable if you have any questions about what I showed today please either reach out to me or do some independent reasearch about whatever questions you may have. 
